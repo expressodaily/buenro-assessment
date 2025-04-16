@@ -1,0 +1,2 @@
+export const SOURCE_1_URL = 'https://buenro-tech-assessment-materials.s3.eu-north-1.amazonaws.com/structured_generated_data.json'
+export const SOURCE_2_URL = 'https://buenro-tech-assessment-materials.s3.eu-north-1.amazonaws.com/large_generated_data.json'
